@@ -5,4 +5,5 @@ func main() {
     fmt.Printf("fefe");
     //--
     //1
+    //2
 }
